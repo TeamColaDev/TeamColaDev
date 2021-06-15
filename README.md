@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeamColaDev,
-- 👀 I’m interested in programming discod bots using Javascript,
-- 🌱 I’m currently learning advanced programming using Javascript,
+- 👀 I’m interested in programming discod bots using discord.js,
+- 🌱 I’m currently learning advanced programming using discord.js,
 - 💞️ I’m looking to collaborate on one of my first bots named Snappy,
 - 📫 You can reach me on discord with my information being colaaaa#0001, you can also join my discord server and message me through there https://discord.gg/mQ7PRGcTYy
 
